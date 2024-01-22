@@ -1,0 +1,9 @@
+C:\Users\geoff\Desktop\starwars\StarsWarsWebapi\InfraStructure\bin\Debug\netcoreapp3.1\InfraStructure.deps.json
+C:\Users\geoff\Desktop\starwars\StarsWarsWebapi\InfraStructure\bin\Debug\netcoreapp3.1\InfraStructure.dll
+C:\Users\geoff\Desktop\starwars\StarsWarsWebapi\InfraStructure\bin\Debug\netcoreapp3.1\InfraStructure.pdb
+C:\Users\geoff\Desktop\starwars\StarsWarsWebapi\InfraStructure\obj\Debug\netcoreapp3.1\InfraStructure.csprojAssemblyReference.cache
+C:\Users\geoff\Desktop\starwars\StarsWarsWebapi\InfraStructure\obj\Debug\netcoreapp3.1\InfraStructure.AssemblyInfoInputs.cache
+C:\Users\geoff\Desktop\starwars\StarsWarsWebapi\InfraStructure\obj\Debug\netcoreapp3.1\InfraStructure.AssemblyInfo.cs
+C:\Users\geoff\Desktop\starwars\StarsWarsWebapi\InfraStructure\obj\Debug\netcoreapp3.1\InfraStructure.csproj.CoreCompileInputs.cache
+C:\Users\geoff\Desktop\starwars\StarsWarsWebapi\InfraStructure\obj\Debug\netcoreapp3.1\InfraStructure.dll
+C:\Users\geoff\Desktop\starwars\StarsWarsWebapi\InfraStructure\obj\Debug\netcoreapp3.1\InfraStructure.pdb
