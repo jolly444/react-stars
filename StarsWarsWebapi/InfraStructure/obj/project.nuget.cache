@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ML8GFOZMb2yYLliMC6YzSawIn/JRwFQU15bHW0C0vcX3UWjFQDYlofM7QgT/QE31j2E8Ii39+cPNKvaYp5BASw==",
+  "dgSpecHash": "rs8yjdfw2DrhP/6fWFhSmkdtGWBvNlnc5gU4L8jm/S9k0MgIejt/3GobjWpLuuhq0e9LJQhAJFnk41hcJlS6CQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\geoff\\Desktop\\starwars\\StarsWarsWebapi\\InfraStructure\\InfraStructure.csproj",
+  "projectFilePath": "C:\\Users\\geoff\\Desktop\\project\\react-stars\\StarsWarsWebapi\\InfraStructure\\InfraStructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

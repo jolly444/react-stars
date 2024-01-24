@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FIWVojipDn5mkNIE/xTRRTSFrSnxFSqw9uqCxY1tE28EqbNLNVIlJ/KfKZ7RLz+jswdpdZapsR45mp9xH4lzXA==",
+  "dgSpecHash": "VUMQwq9K997r9/ekjla98NMqIh1Ez9AhGYIIEOqO2CjOxKbJXgAFzrEuDZCCNyZcUrCSNerXsLj6oHcj1ejcRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\geoff\\Desktop\\starwars\\StarsWarsWebapi\\StarsWarsWebapi\\StarsWarsWebapi.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\geoff\\Desktop\\project\\react-stars\\StarsWarsWebapi\\StarsWarsWebapi\\StarsWarsWebapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geoff\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

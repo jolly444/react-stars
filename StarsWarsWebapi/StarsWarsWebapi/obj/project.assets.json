@@ -48,11 +48,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\geoff\\Desktop\\starwars\\StarsWarsWebapi\\StarsWarsWebapi\\StarsWarsWebapi.csproj",
+      "projectUniqueName": "C:\\Users\\geoff\\Desktop\\project\\react-stars\\StarsWarsWebapi\\StarsWarsWebapi\\StarsWarsWebapi.csproj",
       "projectName": "StarsWarsWebapi",
-      "projectPath": "C:\\Users\\geoff\\Desktop\\starwars\\StarsWarsWebapi\\StarsWarsWebapi\\StarsWarsWebapi.csproj",
+      "projectPath": "C:\\Users\\geoff\\Desktop\\project\\react-stars\\StarsWarsWebapi\\StarsWarsWebapi\\StarsWarsWebapi.csproj",
       "packagesPath": "C:\\Users\\geoff\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\geoff\\Desktop\\starwars\\StarsWarsWebapi\\StarsWarsWebapi\\obj\\",
+      "outputPath": "C:\\Users\\geoff\\Desktop\\project\\react-stars\\StarsWarsWebapi\\StarsWarsWebapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\geoff\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,11 +69,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\geoff\\Desktop\\starwars\\StarsWarsWebapi\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\geoff\\Desktop\\starwars\\StarsWarsWebapi\\Application\\Application.csproj"
+            "C:\\Users\\geoff\\Desktop\\project\\react-stars\\StarsWarsWebapi\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\geoff\\Desktop\\project\\react-stars\\StarsWarsWebapi\\Application\\Application.csproj"
             },
-            "C:\\Users\\geoff\\Desktop\\starwars\\StarsWarsWebapi\\InfraStructure\\InfraStructure.csproj": {
-              "projectPath": "C:\\Users\\geoff\\Desktop\\starwars\\StarsWarsWebapi\\InfraStructure\\InfraStructure.csproj"
+            "C:\\Users\\geoff\\Desktop\\project\\react-stars\\StarsWarsWebapi\\InfraStructure\\InfraStructure.csproj": {
+              "projectPath": "C:\\Users\\geoff\\Desktop\\project\\react-stars\\StarsWarsWebapi\\InfraStructure\\InfraStructure.csproj"
             }
           }
         }
@@ -93,10 +93,17 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.32, 3.1.32]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -105,7 +112,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
